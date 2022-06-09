@@ -1,0 +1,89 @@
+/*
+    * Project Name :
+    * Built by : 'Gulshan Songara'
+*/
+
+/*
+    ::: INDEX :::
+
+    01) Fonts
+    02) Global Variables
+    03) CSS Reset
+    04) Common Styles
+    05) 
+    06) 
+    07) 
+    08) 
+    09) 
+    10) 
+
+*/
+
+/*--====== Fonts ======--*/
+
+/*--====== Global Variables ======--*/
+
+
+/*--====== CSS Reset ======--*/
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: inherit;
+}
+
+input,
+button,
+textarea {
+    border: none;
+    outline: none;
+    font-family: inherit;
+}
+
+button {
+    cursor: pointer;
+}
+
+textarea {
+    resize: vertical;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+img,
+svg {
+    vertical-align: middle;
+}
+/*--====== /Reset Ends ======--*/
+
+/*--====== Common Styles ======--*/
+.container {
+    max-width: 1320px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+}
+/*--====== /Common Styles Ends ======--*/

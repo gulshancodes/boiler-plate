@@ -1,0 +1,73 @@
+/*
+    * Project Name :
+    * Built by : 'Gulshan Songara'
+*/
+
+/*--====== 01) XXL Devices ======--*/
+@media (min-width: 1600px) {
+    html {
+        font-size: 18px;
+    }
+}
+
+
+/*--====== 02) XL Devices ======--*/
+@media (max-width: 1399.98px) {
+
+    /*--- Common Styles ---*/
+    .container {
+        max-width: 1140px;
+    }
+}
+
+
+/*--====== 03) Lg Devices ======--*/
+@media (max-width: 1199.98px) {
+
+    /*--- Common Styles ---*/
+    .container {
+        max-width: 960px;
+    }
+
+}
+
+
+/*--====== 04) Md Devices ======--*/
+@media (max-width: 991.98px) {
+
+    /*--- Common Styles ---*/
+    .container {
+        max-width: 720px;
+    }
+
+}
+
+
+/*--====== 05) Sm Devices ======--*/
+@media (max-width: 767.98px) {
+
+    html {
+        font-size: 15px;
+    }
+
+    /*--- Common Styles ---*/
+    .container {
+        max-width: 540px;
+    }
+
+}
+
+
+/*--====== 06) Xs Devices ======--*/
+@media (max-width: 575.98px) {
+
+    html {
+        font-size: 14px;
+    }
+
+    /*--- Common Styles ---*/
+    .container {
+        width: 100%;
+    }
+
+}
