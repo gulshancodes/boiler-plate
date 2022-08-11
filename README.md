@@ -1,6 +1,6 @@
 # HTML, CSS Boiler Plate
 
-HTML, CSS Boiler Plate with CSS Resets & Responsive Breakpoints
+HTML, CSS Boiler Plate with CSS Resets & Responsive Breakpoints.
 <br/>
 
 ## Author:
